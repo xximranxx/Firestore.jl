@@ -1,4 +1,4 @@
-module JuliaFirestore
+module Firestore
 
 import HTTP, GoogleCloud, JSON
 
